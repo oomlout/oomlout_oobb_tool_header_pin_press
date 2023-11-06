@@ -1,5 +1,5 @@
-id: oomlout_oomp_electronic_project_svg_component_placement
-name: "SVG Component Placement in Kicad"
-description: "Placing components along a path in Kicad."
+id: oomlout_oobb_tool_header_pin_press
+name: "Header Pin Press"
+description: "A tool for pressing header pins into oobb wire formations."
 readme_manual: |
   ##notes
