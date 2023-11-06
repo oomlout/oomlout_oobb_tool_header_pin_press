@@ -44,56 +44,109 @@ viewBox="0 0 20000 20000"
  </defs>
  <g id="Layer_x0020_1">
   <metadata id="CorelCorpID_0Corel-Layer"/>
-  <path class="fil0 str0" d="M6300 11700l0 -3400c0,-276 224,-500 500,-500l6400 0c276,0 500,224 500,500l0 3400c0,276 -224,500 -500,500l-6400 0c-276,0 -500,-224 -500,-500z"/>
-  <circle class="fil0 str0" cx="7000" cy="10000" r="300"/>
-  <circle class="fil0 str0" cx="7000" cy="8500" r="300"/>
-  <circle class="fil0 str0" cx="7000" cy="10750" r="150"/>
-  <circle class="fil0 str0" cx="7000" cy="9250" r="150"/>
-  <rect class="fil0 str0" x="8462" y="9587" width="75" height="75"/>
-  <rect class="fil0 str0" x="8208" y="9587" width="75" height="75"/>
-  <rect class="fil0 str1" x="7954" y="9587" width="75" height="75"/>
-  <polygon class="fil0 str1" points="7865,9498 8881,9498 8881,9752 7865,9752 "/>
-  <rect class="fil0 str1" x="8716" y="9587" width="75" height="75"/>
+  <path class="fil0 str0" d="M6300 8700l0 -3400c0,-276 224,-500 500,-500l6400 0c276,0 500,224 500,500l0 3400c0,276 -224,500 -500,500l-6400 0c-276,0 -500,-224 -500,-500z"/>
+  <circle class="fil0 str0" cx="7000" cy="7000" r="300"/>
+  <circle class="fil0 str0" cx="7000" cy="5500" r="300"/>
+  <circle class="fil0 str0" cx="7000" cy="7750" r="150"/>
+  <circle class="fil0 str0" cx="7000" cy="6250" r="150"/>
+  <rect class="fil0 str0" x="8462" y="6587" width="75" height="75"/>
+  <rect class="fil0 str0" x="8208" y="6587" width="75" height="75"/>
+  <rect class="fil0 str1" x="7954" y="6587" width="75" height="75"/>
+  <polygon class="fil0 str1" points="7865,6498 8881,6498 8881,6752 7865,6752 "/>
+  <rect class="fil0 str1" x="8716" y="6587" width="75" height="75"/>
+  <rect class="fil0 str0" x="8462" y="5087" width="75" height="75"/>
+  <rect class="fil0 str0" x="8208" y="5087" width="75" height="75"/>
+  <rect class="fil0 str0" x="7954" y="5087" width="75" height="75"/>
+  <rect class="fil0 str1" x="7611" y="4998" width="1524" height="254"/>
+  <rect class="fil0 str1" x="8716" y="5087" width="75" height="75"/>
+  <rect class="fil0 str1" x="8970" y="5087" width="75" height="75"/>
+  <rect class="fil0 str1" x="7700" y="5087" width="75" height="75"/>
+  <text x="7688" y="6009"  class="fil0 str3 fnt0">basic</text>
   <rect class="fil0 str0" x="8462" y="8087" width="75" height="75"/>
   <rect class="fil0 str0" x="8208" y="8087" width="75" height="75"/>
-  <rect class="fil0 str0" x="7954" y="8087" width="75" height="75"/>
-  <rect class="fil0 str1" x="7611" y="7998" width="1524" height="254"/>
+  <rect class="fil0 str1" x="7954" y="8087" width="75" height="75"/>
+  <polygon class="fil0 str1" points="7611,7998 8881,7998 8881,8252 7611,8252 "/>
   <rect class="fil0 str1" x="8716" y="8087" width="75" height="75"/>
-  <rect class="fil0 str1" x="8970" y="8087" width="75" height="75"/>
   <rect class="fil0 str1" x="7700" y="8087" width="75" height="75"/>
-  <text x="7688" y="9009"  class="fil0 str3 fnt0">basic</text>
-  <rect class="fil0 str0" x="8462" y="11087" width="75" height="75"/>
-  <rect class="fil0 str0" x="8208" y="11087" width="75" height="75"/>
-  <rect class="fil0 str1" x="7954" y="11087" width="75" height="75"/>
-  <polygon class="fil0 str1" points="7611,10998 8881,10998 8881,11252 7611,11252 "/>
-  <rect class="fil0 str1" x="8716" y="11087" width="75" height="75"/>
-  <rect class="fil0 str1" x="7700" y="11087" width="75" height="75"/>
-  <circle class="fil0 str0" cx="13000" cy="10000" r="300"/>
-  <circle class="fil0 str0" cx="13000" cy="8500" r="300"/>
-  <circle class="fil0 str0" cx="13000" cy="10750" r="150"/>
-  <circle class="fil0 str0" cx="13000" cy="9250" r="150"/>
-  <text x="7545" y="10509"  class="fil0 str3 fnt0">motor</text>
-  <g transform="matrix(1.00001 0 0 1 -1520.31 1740.04)">
+  <circle class="fil0 str0" cx="13000" cy="7000" r="300"/>
+  <circle class="fil0 str0" cx="13000" cy="5500" r="300"/>
+  <circle class="fil0 str0" cx="13000" cy="7750" r="150"/>
+  <circle class="fil0 str0" cx="13000" cy="6250" r="150"/>
+  <text x="7545" y="7509"  class="fil0 str3 fnt0">motor</text>
+  <g transform="matrix(1.00001 0 0 1 -1520.31 -1259.96)">
    <text x="8739" y="10000"  class="fil0 str3 fnt1">higher_voltage</text>
   </g>
-  <rect class="fil0 str0" x="11462" y="9587" width="75" height="75"/>
-  <rect class="fil0 str0" x="11208" y="9587" width="75" height="75"/>
-  <rect class="fil0 str0" x="10954" y="9587" width="75" height="75"/>
-  <polygon class="fil0 str1" points="10357,9498 12135,9498 12135,9752 10357,9752 "/>
-  <rect class="fil0 str1" x="11716" y="9587" width="75" height="75"/>
-  <rect class="fil0 str1" x="11970" y="9587" width="75" height="75"/>
-  <rect class="fil0 str0" x="10700" y="9587" width="75" height="75"/>
-  <rect class="fil0 str0" x="11462" y="11087" width="75" height="75"/>
-  <rect class="fil0 str0" x="11208" y="11087" width="75" height="75"/>
-  <rect class="fil0 str0" x="10954" y="11087" width="75" height="75"/>
-  <rect class="fil0 str1" x="10611" y="10998" width="1524" height="254"/>
-  <rect class="fil0 str0" x="11716" y="11087" width="75" height="75"/>
-  <rect class="fil0 str1" x="11970" y="11087" width="75" height="75"/>
-  <rect class="fil0 str1" x="10700" y="11087" width="75" height="75"/>
-  <text x="11025" y="10509"  class="fil0 str3 fnt0">i2c</text>
-  <g transform="matrix(0.999982 0 0 1 1476.13 1786.59)">
+  <rect class="fil0 str0" x="11462" y="6587" width="75" height="75"/>
+  <rect class="fil0 str0" x="11208" y="6587" width="75" height="75"/>
+  <rect class="fil0 str0" x="10954" y="6587" width="75" height="75"/>
+  <polygon class="fil0 str1" points="10357,6498 12135,6498 12135,6752 10357,6752 "/>
+  <rect class="fil0 str1" x="11716" y="6587" width="75" height="75"/>
+  <rect class="fil0 str1" x="11970" y="6587" width="75" height="75"/>
+  <rect class="fil0 str0" x="10700" y="6587" width="75" height="75"/>
+  <rect class="fil0 str0" x="11462" y="8087" width="75" height="75"/>
+  <rect class="fil0 str0" x="11208" y="8087" width="75" height="75"/>
+  <rect class="fil0 str0" x="10954" y="8087" width="75" height="75"/>
+  <rect class="fil0 str1" x="10611" y="7998" width="1524" height="254"/>
+  <rect class="fil0 str0" x="11716" y="8087" width="75" height="75"/>
+  <rect class="fil0 str1" x="11970" y="8087" width="75" height="75"/>
+  <rect class="fil0 str1" x="10700" y="8087" width="75" height="75"/>
+  <text x="11025" y="7509"  class="fil0 str3 fnt0">i2c</text>
+  <g transform="matrix(0.999982 0 0 1 1476.13 -1213.41)">
    <text x="8746" y="10000"  class="fil0 str3 fnt1">motor_stepper</text>
   </g>
-  <rect class="fil0 str1" x="10446" y="9587" width="75" height="75"/>
+  <rect class="fil0 str1" x="10446" y="6587" width="75" height="75"/>
+  <text x="10361" y="5741"  class="fil0 str3 fnt0">bottom</text>
+  <path class="fil0 str0" d="M6300 14700l0 -3400c0,-276 224,-500 500,-500l6400 0c276,0 500,224 500,500l0 3400c0,276 -224,500 -500,500l-6400 0c-276,0 -500,-224 -500,-500z"/>
+  <circle class="fil0 str0" cx="7000" cy="13000" r="300"/>
+  <circle class="fil0 str0" cx="7000" cy="11500" r="300"/>
+  <circle class="fil0 str0" cx="7000" cy="13750" r="150"/>
+  <circle class="fil0 str0" cx="7000" cy="12250" r="150"/>
+  <rect class="fil0 str0" x="8462" y="12587" width="75" height="75"/>
+  <rect class="fil0 str0" x="8208" y="12587" width="75" height="75"/>
+  <rect class="fil0 str0" x="7954" y="12587" width="75" height="75"/>
+  <polygon class="fil0 str1" points="7865,12498 8881,12498 8881,12752 7865,12752 "/>
+  <rect class="fil0 str0" x="8716" y="12587" width="75" height="75"/>
+  <rect class="fil0 str0" x="8462" y="11087" width="75" height="75"/>
+  <rect class="fil0 str0" x="8208" y="11087" width="75" height="75"/>
+  <rect class="fil0 str0" x="7954" y="11087" width="75" height="75"/>
+  <rect class="fil0 str1" x="7611" y="10998" width="1524" height="254"/>
+  <rect class="fil0 str0" x="8716" y="11087" width="75" height="75"/>
+  <rect class="fil0 str0" x="8970" y="11087" width="75" height="75"/>
+  <rect class="fil0 str0" x="7700" y="11087" width="75" height="75"/>
+  <text x="7688" y="12009"  class="fil0 str3 fnt0">basic</text>
+  <rect class="fil0 str0" x="8462" y="14087" width="75" height="75"/>
+  <rect class="fil0 str0" x="8208" y="14087" width="75" height="75"/>
+  <rect class="fil0 str0" x="7954" y="14087" width="75" height="75"/>
+  <polygon class="fil0 str1" points="7611,13998 8881,13998 8881,14252 7611,14252 "/>
+  <rect class="fil0 str0" x="8716" y="14087" width="75" height="75"/>
+  <rect class="fil0 str0" x="7700" y="14087" width="75" height="75"/>
+  <circle class="fil0 str0" cx="13000" cy="13000" r="300"/>
+  <circle class="fil0 str0" cx="13000" cy="11500" r="300"/>
+  <circle class="fil0 str0" cx="13000" cy="13750" r="150"/>
+  <circle class="fil0 str0" cx="13000" cy="12250" r="150"/>
+  <text x="7545" y="13509"  class="fil0 str3 fnt0">motor</text>
+  <g transform="matrix(1.00001 0 0 1 -1520.31 4740.04)">
+   <text x="8739" y="10000"  class="fil0 str3 fnt1">higher_voltage</text>
+  </g>
+  <rect class="fil0 str0" x="11462" y="12587" width="75" height="75"/>
+  <rect class="fil0 str0" x="11208" y="12587" width="75" height="75"/>
+  <rect class="fil0 str0" x="10954" y="12587" width="75" height="75"/>
+  <polygon class="fil0 str1" points="10357,12498 12135,12498 12135,12752 10357,12752 "/>
+  <rect class="fil0 str0" x="11716" y="12587" width="75" height="75"/>
+  <rect class="fil0 str0" x="11970" y="12587" width="75" height="75"/>
+  <rect class="fil0 str0" x="10700" y="12587" width="75" height="75"/>
+  <rect class="fil0 str0" x="11462" y="14087" width="75" height="75"/>
+  <rect class="fil0 str0" x="11208" y="14087" width="75" height="75"/>
+  <rect class="fil0 str0" x="10954" y="14087" width="75" height="75"/>
+  <rect class="fil0 str1" x="10611" y="13998" width="1524" height="254"/>
+  <rect class="fil0 str0" x="11716" y="14087" width="75" height="75"/>
+  <rect class="fil0 str0" x="11970" y="14087" width="75" height="75"/>
+  <rect class="fil0 str0" x="10700" y="14087" width="75" height="75"/>
+  <text x="11025" y="13509"  class="fil0 str3 fnt0">i2c</text>
+  <g transform="matrix(0.999982 0 0 1 1476.13 4786.59)">
+   <text x="8746" y="10000"  class="fil0 str3 fnt1">motor_stepper</text>
+  </g>
+  <rect class="fil0 str0" x="10446" y="12587" width="75" height="75"/>
+  <text x="10971" y="11741"  class="fil0 str3 fnt0">top</text>
  </g>
 </svg>
